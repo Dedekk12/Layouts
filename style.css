@@ -1,0 +1,29 @@
+body
+    {
+        margin: 0px;
+    }
+
+header 
+    {
+
+        border: solid rgb(1, 1, 67);
+        background-color: rgb(1, 1, 67);
+        position: relative;
+        
+    }
+
+header h1
+    {
+        text-align: center;
+        color: rgb(255, 0, 0);
+        
+    }
+
+
+
+.sidebar
+    {
+        border: solid rgb(0, 40, 104);
+        background-color: rgb(0, 40, 104);
+        color : rgb(255, 0, 0);
+    }
